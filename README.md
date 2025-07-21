@@ -1,6 +1,8 @@
 # 🚀 Go Programming - The Complete Guide
 
-Welcome to the **Go Programming - The Complete Guide** course! This comprehensive course takes you from beginner to advanced levels in Go (Golang) programming, featuring 12 sections and 199 lectures with a total duration of 15 hours and 22 minutes. Through structured lessons, hands-on projects, and real-world examples, you'll master Go’s powerful features for building efficient, scalable applications.
+Welcome to the **Go Programming - The Complete Guide** course! 
+
+This comprehensive course takes you from beginner to advanced levels in Go (Golang) programming, featuring 12 sections and 199 lectures with a total duration of 15 hours and 22 minutes. Through structured lessons, hands-on projects, and real-world examples, you'll master Go’s powerful features for building efficient, scalable applications.
 
 ---
 
