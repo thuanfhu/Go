@@ -320,14 +320,17 @@ This comprehensive course takes you from beginner to advanced levels in Go (Gola
 ## 💡 How to Use This Course
 
 - **Explore Sections:** Dive into each section for detailed lessons and practical exercises.
+  
 - **Practice Projects:** Apply your skills with hands-on projects like the Price Calculator and REST API.
+  
 - **Review Summaries:** Use module summaries to reinforce key concepts.
+  
 - **Engage with the Community:** Join fellow learners for support and collaboration.
 
 ---
 
 ## 📬 Feedback & Contribution
 
-Feel free to share feedback, suggest improvements, or contribute to the course!  
-Let’s build efficient, scalable Go applications together.  
+Feel free to share feedback, suggest improvements, or contribute to the course! Let’s build efficient, scalable Go applications together.  
+
 Happy coding! 🌈✨
